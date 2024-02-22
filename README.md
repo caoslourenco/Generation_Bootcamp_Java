@@ -3,10 +3,11 @@
 ![cover](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/f3b760c0-9e90-464f-905a-41520b9eacc8)
  
 
-## 🖥️ About
+## 🚪 Introduction...  🖥️ 
  
   
-<img align="right" src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/bffbd4ac-38a7-41f8-ab84-b13bb1716f2d" title="source: imgur.com" width="350px" />
+
+<img align="right" src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/bdcb8d27-a129-424f-a4c1-ccdd6a6621f4" title="source: imgur.com" width="350px" />
 
 
 The **Bootcamp Java Full-stack developer** is a 3-month scholarship program by [**Generation Brazil**](https://brazil.generation.org/), with each focused on different technologies. Additionally, there is ample emphasis on learning non-technical skills (soft skills), which are constantly addressed and practiced every day. These are the skills discussed daily:
@@ -24,16 +25,20 @@ The idea is not only to develop technically but also to acquire/improve behavior
 
 ***
 
-## 🔰 Zero Trail
-During this period, I had contact with the **Portugol** language, the exercises I did can be accessed in the following folder within this repository:
-[**Zero Trail**](https://github.com/generationBrazil-bootcamp/tree/main/trilha_zero)
+
+## 🚪 An Unexpected Journey | Trilha Zero ✳️
+![RunLordOfTheRingsGIF](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/5d9cc280-943a-4cb6-bbb9-8e62f3022e4e)
+
+During this period, I had contact with the **Portugol** language, and the exercises I did can be accessed in the following folder within this repository: [**Trilha Zero**](https://github.com/generationBrazil-bootcamp/tree/main/trilha_zero)
 
 
+
+ 
 ***
 
-## 1️⃣ Block I (Java & Github)
+## 1️⃣ The Fellowship of the Ring | Bloco 01 (Java & Github)
  
-In this phase, I had intense contact with the Java language for one month. To access the exercises I did, just go to the folder `bloco_01/java` in this repository:
+In this phase, I had intense contact with the Java language for one month. To access the exercises I did, just go to the folder `Bloco_01/java` in this repository:
 [**Java**](https://github.com/generationBrazil-bootcamp/tree/main/bloco_01).
 Additionally, I used the Notion app and **GitHub's Issues** and **Milestone** as tools for taking notes on classes and my reading of the [**cookBook**](https://github.com/rafaelq80/cookbook_java) distributed to students.
 - [ ] My notes on [**Java**](https://github.com/generationBrazil-bootcamp/milestone/2?closed=1);
@@ -41,7 +46,7 @@ Additionally, I used the Notion app and **GitHub's Issues** and **Milestone** as
 - [ ] Brief Java project: [**GenStudents**](https://github.com/generation-bootcamp/tree/main/bloco_01/java/GeStudents);
 - [ ] Guide project: [**Generation First Project**](https://github.com/ContaBancaria).
 
-### 🚧 Final Project of Block I: Not Completed Yet
+### 🚧 Final Project: Not Completed Yet
 
 🚧 🏗️ 🚧
 
@@ -55,7 +60,7 @@ With this amazing team, I learned in practice the first pillar of the agile mani
 
 ***
 
-## 2️⃣ Block II (SQL && Spring) | Not Completed Yet
+## 2️⃣ The Two Towers | Bloco 02 (SQL && Spring) | Not Completed Yet
 
 **Projects done during this phase:**
 
@@ -68,7 +73,7 @@ With this amazing team, I learned in practice the first pillar of the agile mani
 
 ***
 
-## 3️⃣ Block III (React & Final Project) | Not Completed Yet 🚧 🏗️ 🚧
+## 3️⃣ The Return of the King | Bloco 03 (React & Final Project) | Not Completed Yet 🚧 🏗️ 🚧
  
 
 **Access our project:** **🚧 🏗️ 🚧**
