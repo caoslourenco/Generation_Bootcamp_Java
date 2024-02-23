@@ -10,18 +10,19 @@
    
 
 
-The **Bootcamp Java Full-stack developer** is a 3-month scholarship program by [**Generation Brazil**](https://brazil.generation.org/), with each focused on different technologies. Additionally, there is ample emphasis on learning non-technical skills (soft skills), which are constantly addressed and practiced every day. These are the skills discussed daily:
+The **Bootcamp of the Full-stack Java Developer** is akin to a journey through Middle-earth, a 3-month odyssey sponsored by [**Generation Brazil**](https://brazil.generation.org/), where each leg of the journey focuses on different realms of technology. Yet, woven into the fabric of this quest are the vital non-technical skills, the soft skills, which are not merely discussed but lived and breathed each passing day. Behold, the virtues that are honed and celebrated daily:
 
-- [x] Proactivity;
-- [x] Teamwork;
-- [x] Communication;
-- [x] Personal responsibility;
-- [x] Empathy;
-- [x] Attention to detail;
-- [x] Orientation to the future;
-- [x] Persistence.
+- [x] Proactivity, the spark that ignites new ventures;
+- [x] Teamwork, the fellowship that binds us together;
+- [x] Communication, the language that bridges worlds;
+- [x] Personal responsibility, the mantle we bear as stewards of our own fate;
+- [x] Empathy, the gift of understanding amidst diverse journeys;
+- [x] Attention to detail, the meticulous craft of the artisan;
+- [x] Orientation to the future, the compass guiding our tomorrows;
+- [x] Persistence, the steadfast resolve in the face of adversity.
 
-The idea is not only to develop technically but also to acquire/improve behavioral skills, which I consider more important in any field.
+For it is not only the technical prowess we seek to forge, but also the refinement of these behavioral skills, which I dare say, are the true treasures of any noble endeavor.
+
 
 ***
 
