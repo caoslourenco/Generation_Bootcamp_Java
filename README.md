@@ -93,7 +93,7 @@ In this chapter of my journey, I found myself amidst the towering citadels of SQ
 
 📜 **Personal Blog:** 
 
-During my adventures, I've chronicled my experiences and reflections on my personal blog, a sanctuary for thoughts and musings carved in the digital ether: **[coderia| codecave| devzone|caosdev|caosmedev](https://blog-pessoal--sandy.vercel.app/login)**
+During my adventures, I've chronicled my experiences and reflections on my personal blog, a sanctuary for thoughts and musings carved in the digital ether: **[ Not named yet, ideias: BagginsCode |coderia| codecave| devzone|caosdev|caosmedev](https://blog-pessoal--sandy.vercel.app/login)**
 
 🚧 🏗️ 🚧
 
