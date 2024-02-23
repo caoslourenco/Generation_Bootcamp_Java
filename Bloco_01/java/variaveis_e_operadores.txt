@@ -1,0 +1,28 @@
+╔════════════════════════════════════════════════════════════════╗
+║ Explicação:                                                        ║
+║ Hoje vamos explorar variáveis e operadores na prática dentro do   ║
+║ código Java. Começaremos abrindo nossa IDE e criando um arquivo   ║
+║ chamado "operadores_e_variaveis". Dentro desse arquivo, veremos   ║
+║ dois exemplos utilizando tipos de variáveis diferentes: inteiros  ║
+║ (int) e booleanos (boolean), juntamente com strings.               ║
+║                                                                    ║
+║ No primeiro exemplo, declaramos duas variáveis do tipo int,        ║
+║ valorUm e valorDois, ambas com o valor 15. Em seguida, imprimimos ║
+║ a soma desses valores usando o operador de adição (+). Ao rodar o  ║
+║ código, o console exibirá a soma dos valores 15 + 15, que é 30.    ║
+║                                                                    ║
+║ Em seguida, alteramos o operador de adição para menor ou igual    ║
+║ (<=) e rodamos novamente. O console nos retornará "true" porque   ║
+║ declaramos que se valorUm for menor ou igual a valorDois, a        ║
+║ expressão é verdadeira. Como ambos são iguais a 15, a condição é  ║
+║ verdadeira.                                                       ║
+║                                                                    ║
+║ No segundo exemplo, exploramos com strings. Trocamos o tipo de     ║
+║ variável para String e nomeamos a primeira variável como "nome".   ║
+║ A segunda variável e a impressão permanecem iguais. Ao rodar o    ║
+║ código novamente, o console exibe o que escrevemos dentro do nosso ║
+║ comando System.out.print(), ou seja, o conteúdo da variável nome.  ║
+║                                                                    ║
+║ Esses foram exemplos simples de variáveis e operadores em ação.    ║
+║ Isso é tudo para esta explicação. Até a próxima!                   ║
+╚════════════════════════════════════════════════════════════════╝
