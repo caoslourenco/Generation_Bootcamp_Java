@@ -103,22 +103,27 @@ During my adventures, I've chronicled my experiences and reflections on my perso
 ***
 
 ## 3️⃣ The Return of the King | Bloco 03 (React & Final Project) | Not Completed Yet 🚧 🏗️ 🚧
- 
+![BowRespectGIF](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/f1f9d941-833f-4f0a-9cb9-b7c028e2a3fe)
+
+<div align="left">
+
+In the final installment of my journey, I stand at the threshold of React and the realm of the Final Project, yet the path remains obscured, the quest unfinished.
 
 **Access our project:** **🚧 🏗️ 🚧**
 
-
 ### 🌱 About the project
-Platform committed to ....
+In this chapter of our saga, we embark on a noble endeavor, a platform committed to...
 
 ### 🚀 Challenge
-Currently...
+As we venture forth, our path is fraught with challenges, yet we press on, determined to overcome...
 
 ### 🎯 Our Mission
-We seek to ...
+Our mission is clear: we seek to...
 
 ### 💪 Our Vision
- We seek to encourage ...
+Guided by our unwavering vision, we strive to encourage...
 
 ### 📜 Our Values
-Our values ​​are ...
+Rooted in our principles, our values ​​are...
+
+</div>
