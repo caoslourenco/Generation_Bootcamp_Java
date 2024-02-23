@@ -1,14 +1,13 @@
 
 # Generation Learning | Bootcamp Java - FullStack
 
- ![44](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/d67a9218-e1fb-42f6-a494-dd998fde3a03)
+![banner_game_designer_neon_roxo_e_azul__2_-removebg-preview](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/3a715360-bad3-42e4-b63f-add4799b2c47)
 
 
 ## 🚪 Introduction...  🖥️ 
  
-  
-
-<img align="right" src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/bdcb8d27-a129-424f-a4c1-ccdd6a6621f4" title="source: imgur.com" width="350px" />
+<img align="right" src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/30adae0d-e7c3-462a-af25-32df125626e8" title="source: imgur.com" width="275px" />
+   
 
 
 The **Bootcamp Java Full-stack developer** is a 3-month scholarship program by [**Generation Brazil**](https://brazil.generation.org/), with each focused on different technologies. Additionally, there is ample emphasis on learning non-technical skills (soft skills), which are constantly addressed and practiced every day. These are the skills discussed daily:
