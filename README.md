@@ -52,26 +52,29 @@ The artifacts of my endeavors lie within the sacred halls of this repository, ac
 
 ***
 ## 1️⃣ The Fellowship of the Ring | Bloco 01 (Java & Github)
- 
-In this phase, I had intense contact with the Java language for one month. To access the exercises I did, just go to the folder `Bloco_01/java` in this repository:
-[**Java**](https://github.com/generationBrazil-bootcamp/tree/main/bloco_01).
-Additionally, I used the Notion app and **GitHub's Issues** and **Milestone** as tools for taking notes on classes and my reading of the [**cookBook**](https://github.com/rafaelq80/cookbook_java) distributed to students.
-- [ ] My notes on [**Java**](https://github.com/generationBrazil-bootcamp/milestone/2?closed=1);
-- [ ] Folder on introduction to [**Git and Github**](https://github.com/generationBrazil-bootcamp/tree/main/bloco_01/aulagit);
-- [ ] Brief Java project: [**GenStudents**](https://github.com/generation-bootcamp/tree/main/bloco_01/java/GeStudents);
-- [ ] Guide project: [**Generation First Project**](https://github.com/ContaBancaria).
+![LotrSquadGIF (2)](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/b36c5e14-9e2a-4be4-8541-515a0c95beff)
 
-### 🚧 Final Project: Not Completed Yet
 
-🚧 🏗️ 🚧
+In this phase, I embarked on a journey through the lands of Java, delving deep into its mysteries for one moon's cycle. To uncover the knowledge I acquired, venture forth to the folder `Bloco_01/java` within this repository:
+[**Java**](https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Bloco_01).
+Furthermore, I wielded the enchanted Notion app and harnessed the powers of **GitHub's Issues** and **Milestone** to chronicle my learnings from the sagas shared in the [**cookBook**](https://github.com/rafaelq80/cookbook_java), bestowed upon students by the wise scholars.
+- [ ] Scrolls of wisdom on [**Java**](https://github.com/free-educa/books/blob/main/books/JavaScript%20O%20Guia%20Definitivo_v2.pdf);
+- [ ] Tome of lore on the introduction to [**Git and Github**](https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Bloco_01/git);
+- [ ] Brief chronicle of the Java project: [**GenStudents**](https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Bloco_01/java);
+- [ ] Scroll of guidance on the sacred journey: [**Generation First Project**](https://github.com/caoslourenco/Conta_Bancaria);
 
-I was part of the development of [**SuperApp**](https://github.com/SuperEats65/tree/main), description of the project
+### 🛠️ Final Project: Not Completed Yet
 
-The team I was a part of consists of: ?
+I ventured into the realm of [**Final Project**](https://github.com/caoslourenco/Project_01), where the quest remains ongoing, awaiting its grand completion.
 
-With this amazing team, I learned in practice the first pillar of the agile manifesto: **_Individuals and interactions over processes and tools._**
+The fellowship I journeyed with remains a tale yet untold: ?
 
-→ LinkedIn post about it: [**Not_completed**](https://www.linkedin.com/camilla-lourenco)
+With this valiant fellowship, I witnessed firsthand the first pillar of the agile manifesto in action: **_Individuals and interactions over processes and tools._**
+
+→ A chronicle of this adventure resides in the annals of LinkedIn: [**Not_completed**](https://www.linkedin.com/camilla-lourenco)
+
+</div>
+
 
 ***
 
