@@ -78,16 +78,27 @@ With this valiant fellowship, I witnessed firsthand the first pillar of the agil
 
 ***
 
-## 2️⃣ The Two Towers | Bloco 02 (SQL && Spring) | Not Completed Yet
+## 2️⃣ The Two Towers | Bloco 02 (SQL & Spring) | Not Completed Yet
+![WhatWasThatWtfIsGoingOnGIF](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/050916e1-e9b8-4078-9de2-7363b5c28d3c)
+
+<div align="left">
+
+In this chapter of my journey, I found myself amidst the towering citadels of SQL and Spring, realms teeming with data and the vitality of creation, yet the path remains untrodden, the quest unfinished.
 
 **Projects done during this phase:**
 
-**Project one:** [Backend_No](https://github.com/Backend_gameStore)
+🏰 **Project two:** [Backend_Project](https://github.com/caoslourenco/Project_02)
 
 🚧 🏗️ 🚧
 
-**Blog:** **[caosblog](https://blog-pessoal--sandy.vercel.app/login)**
+📜 **Personal Blog:** 
+
+During my adventures, I've chronicled my experiences and reflections on my personal blog, a sanctuary for thoughts and musings carved in the digital ether: **[caosblog](https://blog-pessoal--sandy.vercel.app/login)**
+
 🚧 🏗️ 🚧
+
+</div>
+
 
 ***
 
