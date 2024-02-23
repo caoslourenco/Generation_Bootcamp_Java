@@ -27,16 +27,30 @@ For it is not only the technical prowess we seek to forge, but also the refineme
 ***
 
 
+
 ## 🚪 An Unexpected Journey | Trilha Zero ✳️
-![RunLordOfTheRingsGIF](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/5d9cc280-943a-4cb6-bbb9-8e62f3022e4e)
 
-During this period, I had contact with the **Portugol** language, and the exercises I did can be accessed in the following folder within this repository: [**Trilha Zero**](https://github.com/generationBrazil-bootcamp/tree/main/trilha_zero)
-
-
+<img align="right" src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/5d9cc280-943a-4cb6-bbb9-8e62f3022e4e" title="source: imgur.com" width="265px" />
 
  
-***
 
+<div align="left">
+
+Amidst the misty realms of code and creation, a journey unfolds, akin to the tales of Middle-earth.
+&nbsp;
+
+Behold, the Trilha Zero, where the paths of technomancers and aspiring sorcerers converge.
+&nbsp;
+
+During this period, I traversed the enchanted lands of the **Portugol** tongue, delving into its ancient syntax and arcane algorithms. 
+&nbsp;
+
+The artifacts of my endeavors lie within the sacred halls of this repository, accessible to those who seek knowledge and wisdom: [**Trilha Zero**](https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Trilha_Zero)
+
+</div>
+
+
+***
 ## 1️⃣ The Fellowship of the Ring | Bloco 01 (Java & Github)
  
 In this phase, I had intense contact with the Java language for one month. To access the exercises I did, just go to the folder `Bloco_01/java` in this repository:
