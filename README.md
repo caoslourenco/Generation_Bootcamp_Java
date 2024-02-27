@@ -62,13 +62,18 @@ The artifacts of my endeavors lie within the sacred halls of this repository, ac
 
 
 ***
+<div align="justify">
+
 ## 1️⃣ The Fellowship of the Ring | Bloco 01 (Java & Github)
+
 ![LotrSquadGIF (2)](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/b36c5e14-9e2a-4be4-8541-515a0c95beff)
 
+&nbsp;
 
 In this phase, I embarked on a journey through the lands of Java, delving deep into its mysteries for one moon's cycle. To uncover the knowledge I acquired, venture forth to the folder `Bloco_01/java` within this repository:
 [**Java**](https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Bloco_01).
 Furthermore, I wielded the enchanted Notion app to chronicle my learnings from the sagas shared in the [**My cookBook**](https://www.notion.so/camillalourenco/cookbook_java-96759ce7318749e0b76690768876225a), bestowed upon students by the wise scholars.
+
 - [ ] Scrolls of wisdom on [**Java**](https://github.com/free-educa/books/blob/main/books/JavaScript%20O%20Guia%20Definitivo_v2.pdf);
 - [ ] Tome of lore on the introduction to [**Git and Github**](https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Bloco_01/git);
 - [ ] Brief chronicle of the Java project: [**GenStudents**](https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Bloco_01/java);
