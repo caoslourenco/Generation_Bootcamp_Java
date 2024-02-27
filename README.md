@@ -6,12 +6,12 @@
 
 ## 🌳 Introduction...  🖥️ 
  
-<img align="right" src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/30adae0d-e7c3-462a-af25-32df125626e8" title="source: imgur.com" width="275px" />
+
    
 
 
 The **Bootcamp of the Full-stack Java Developer** is akin to a journey through Middle-earth, a 3-month odyssey sponsored by [**Generation Brazil**](https://brazil.generation.org/), where each leg of the journey focuses on different realms of technology. Yet, woven into the fabric of this quest are the vital non-technical skills, the soft skills, which are not merely discussed but lived and breathed each passing day. Behold, the virtues that are honed and celebrated daily:
-
+<img align="right" src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/30adae0d-e7c3-462a-af25-32df125626e8" title="source: imgur.com" width="275px" />
 - [x] Proactivity, the spark that ignites new ventures;
 - [x] Teamwork, the fellowship that binds us together;
 - [x] Communication, the language that bridges worlds;
