@@ -1,17 +1,25 @@
+<div align="justify">
 
-# Generation Learning | Bootcamp Java - FullStack
+<center>
+  <h1>Generation Learning | Bootcamp Java - FullStack</h1> <!-- Utilizando a tag <h1> para manter o tamanho do título -->
+</center>
 
-![banner_game_designer_neon_roxo_e_azul__2_-removebg-preview](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/3a715360-bad3-42e4-b63f-add4799b2c47)
+ 
+  ![banner_game_designer_neon_roxo_e_azul__2_-removebg-preview](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/3a715360-bad3-42e4-b63f-add4799b2c47)
+  
+</div>
 
+<hr> <!-- Removendo a linha horizontal -->
 
 ## 🌳 Introduction...  🖥️ 
- 
-
-   
-
 
 The **Bootcamp of the Full-stack Java Developer** is akin to a journey through Middle-earth, a 3-month odyssey sponsored by [**Generation Brazil**](https://brazil.generation.org/), where each leg of the journey focuses on different realms of technology. Yet, woven into the fabric of this quest are the vital non-technical skills, the soft skills, which are not merely discussed but lived and breathed each passing day. Behold, the virtues that are honed and celebrated daily:
-<img align="right" src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/30adae0d-e7c3-462a-af25-32df125626e8" title="source: imgur.com" width="275px" />
+
+<div style="margin-bottom: 60px;"> <!-- Aumentando a margem inferior para 60px -->
+  <img align="right" src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/30adae0d-e7c3-462a-af25-32df125626e8" title="source: imgur.com" width="275px" style="margin-left: 20px; margin-top: 20px;" />
+
+ &nbsp;
+ 
 - [x] Proactivity, the spark that ignites new ventures;
 - [x] Teamwork, the fellowship that binds us together;
 - [x] Communication, the language that bridges worlds;
@@ -21,14 +29,17 @@ The **Bootcamp of the Full-stack Java Developer** is akin to a journey through M
 - [x] Orientation to the future, the compass guiding our tomorrows;
 - [x] Persistence, the steadfast resolve in the face of adversity.
 
+
+
 For it is not only the technical prowess we seek to forge, but also the refinement of these behavioral skills, which I dare say, are the true treasures of any noble endeavor.
 
+</div>
 
-***
-
-
+<br> <!-- Adicionando uma quebra de linha aqui -->
+-------------------------------
 
 ## 🚪 An Unexpected Journey | Trilha Zero ✳️
+ 
 
 <img align="right" src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/5d9cc280-943a-4cb6-bbb9-8e62f3022e4e" title="source: imgur.com" width="265px" />
 
