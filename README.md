@@ -114,6 +114,7 @@ In this chapter of my journey, I found myself amidst the towering citadels of SQ
 
 During my adventures, I've chronicled my experiences and reflections on my personal blog, a sanctuary for thoughts and musings carved in the digital ether: **[ Not named yet, ideias: BagginsCode |coderia| codecave| devzone|caosdev|caosmedev](https://blog-pessoal--sandy.vercel.app/login)**
 
+Additionally, you can check out my design on Figma: [Simple Portfolio Template](https://www.figma.com/proto/4Q1A8Ul1Q2nMxuQNjGauzH/Simple-portfolio-%5BTemplate%5D-(Community)?type=design&node-id=1-12&t=faN7akK3jgHF6YDK-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A12&mode=design)
 🚧 🏗️ 🚧
 
 </div>
