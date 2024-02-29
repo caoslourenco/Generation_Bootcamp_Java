@@ -52,6 +52,17 @@ For it is not only the technical prowess we seek to forge, but also the refineme
 
 Amidst the misty realms of code and creation, a journey unfolds, akin to the tales of Middle-earth.
 &nbsp;
+Behold, the Trilha Zero, where the paths of technomancers and aspiring sorcerers converge.
+
+During this period, I traversed the enchanted lands of **Portugol**, delving into its ancient syntax and arcane algorithms.
+
+The artifacts of my endeavors lie within the sacred halls of this repository, accessible to those who seek knowledge and wisdom: [Trilha Zero](https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Trilha_Zero)
+
+May the journey continue, and may your codes flourish like autumn leaves! 🌟🔮🌿
+
+
+<!--Amidst the misty realms of code and creation, a journey unfolds, akin to the tales of Middle-earth.
+&nbsp;
 
 Behold, the Trilha Zero, where the paths of technomancers and aspiring sorcerers converge.
 &nbsp;
@@ -59,7 +70,7 @@ Behold, the Trilha Zero, where the paths of technomancers and aspiring sorcerers
 During this period, I traversed the enchanted lands of the **Portugol** tongue, delving into its ancient syntax and arcane algorithms. 
 &nbsp;
 
-The artifacts of my endeavors lie within the sacred halls of this repository, accessible to those who seek knowledge and wisdom: [**Trilha Zero**](https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Trilha_Zero)
+The artifacts of my endeavors lie within the sacred halls of this repository, accessible to those who seek knowledge and wisdom: [**Trilha Zero**](https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Trilha_Zero) -->
 
 </div>
 
