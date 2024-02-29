@@ -1,3 +1,6 @@
+
+``|🚨 Caution: Work in progress 🚨| ``
+
 <div align="justify">
 
 <center>
@@ -10,7 +13,7 @@
 
 <hr> <!-- Removendo a linha horizontal -->
 
-``Under development ⚠️``
+
 
 ## 🌳 Introduction...  🖥️ 
 
@@ -37,16 +40,15 @@ For it is not only the technical prowess we seek to forge, but also the refineme
 </div>
 
 <br> <!-- Adicionando uma quebra de linha aqui -->
--------------------------------
+
+********************************************************************************************************************************
 
 ## 🚪 An Unexpected Journey | Trilha Zero ✳️
  
 
 <img align="right" src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/5d9cc280-943a-4cb6-bbb9-8e62f3022e4e" title="source: imgur.com" width="265px" />
 
- 
-
-<div align="left">
+ <div align="left">
 
 Amidst the misty realms of code and creation, a journey unfolds, akin to the tales of Middle-earth.
 &nbsp;
@@ -62,7 +64,8 @@ The artifacts of my endeavors lie within the sacred halls of this repository, ac
 </div>
 
 
-***
+********************************************************************************************************************************
+
 <div align="justify">
 
 ## 1️⃣ The Fellowship of the Ring | Bloco 01 (Java & Github)
@@ -93,8 +96,7 @@ With this valiant fellowship, I witnessed firsthand the first pillar of the agil
 </div>
 
 
-***
-
+********************************************************************************************************************************
 ## 2️⃣ The Two Towers | Bloco 02 (SQL & Spring) | Not Completed Yet
 ![WhatWasThatWtfIsGoingOnGIF](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/050916e1-e9b8-4078-9de2-7363b5c28d3c)
 
@@ -117,7 +119,7 @@ During my adventures, I've chronicled my experiences and reflections on my perso
 </div>
 
 
-***
+********************************************************************************************************************************
 
 ## 3️⃣ The Return of the King | Bloco 03 (React & Final Project) | Not Completed Yet 🚧 🏗️ 🚧
 ![BowRespectGIF](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/f1f9d941-833f-4f0a-9cb9-b7c028e2a3fe)
@@ -144,3 +146,5 @@ Guided by our unwavering vision, we strive to encourage...
 Rooted in our principles, our values ​​are...
 
 </div>
+
+********************************************************************************************************************************
