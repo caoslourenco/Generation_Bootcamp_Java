@@ -4,10 +4,9 @@
   <h1>Generation Learning | Bootcamp Java - FullStack</h1> <!-- Utilizando a tag <h1> para manter o tamanho do título -->
 </center>
 
- 
-  ![banner_game_designer_neon_roxo_e_azul__2_-removebg-preview](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/3a715360-bad3-42e4-b63f-add4799b2c47)
-  
-</div>
+ ![LinkedIn_banner_game_designer_neon_roxo_e_azul__1_-removebg-preview](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/2ce22d4c-b623-411c-bcab-d7424b8cbd1b)
+
+ </div>
 
 <hr> <!-- Removendo a linha horizontal -->
 
