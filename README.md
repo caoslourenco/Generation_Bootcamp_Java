@@ -83,7 +83,9 @@ Furthermore, I wielded the enchanted Notion app to chronicle my learnings from t
 - [ ] Brief chronicle of the Java project: [**GenStudents**](https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Bloco_01/java);
 - [ ] Scroll of guidance on the sacred journey: [**Generation First Project**](https://github.com/caoslourenco/Conta_Bancaria);
 
-### 🛠️ Final Project: Not Completed Yet
+**🚧 🏗️ 🚧**
+
+<!-- ### 🛠️ Final Project: Not Completed Yet
 
 I ventured into the realm of [**Final Project**](https://github.com/caoslourenco/Project_01), where the quest remains ongoing, awaiting its grand completion.
 
@@ -93,14 +95,14 @@ With this valiant fellowship, I witnessed firsthand the first pillar of the agil
 
 → A chronicle of this adventure resides in the annals of LinkedIn: [**Not_completed**](https://www.linkedin.com/camilla-lourenco)
 
-</div>
+</div> -->
 
 
 ********************************************************************************************************************************
-## 2️⃣ The Two Towers | Bloco 02 (SQL & Spring) | Not Completed Yet
+## 2️⃣ The Two Towers | Bloco 02 (SQL & Spring) | **🚧 🏗️ 🚧**
 ![WhatWasThatWtfIsGoingOnGIF](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/050916e1-e9b8-4078-9de2-7363b5c28d3c)
 
-<div align="left">
+<!-- <div align="left">
 
 In this chapter of my journey, I found myself amidst the towering citadels of SQL and Spring, realms teeming with data and the vitality of creation, yet the path remains untrodden, the quest unfinished.
 
@@ -117,15 +119,18 @@ During my adventures, I've chronicled my experiences and reflections on my perso
 Additionally, you can check out my design on Figma: [Simple Portfolio Template](https://www.figma.com/proto/4Q1A8Ul1Q2nMxuQNjGauzH/Simple-portfolio-%5BTemplate%5D-(Community)?type=design&node-id=1-12&t=faN7akK3jgHF6YDK-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A12&mode=design)
 🚧 🏗️ 🚧
 
-</div>
+</div> -->
 
 
 ********************************************************************************************************************************
 
-## 3️⃣ The Return of the King | Bloco 03 (React & Final Project) | Not Completed Yet 🚧 🏗️ 🚧
+## 3️⃣ The Return of the King | Bloco 03 (React & Final Project) | **🚧 🏗️ 🚧**
 ![BowRespectGIF](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/f1f9d941-833f-4f0a-9cb9-b7c028e2a3fe)
 
-<div align="left">
+
+**🚧 🏗️ 🚧**
+
+<!-- <div align="left">
 
 In the final installment of my journey, I stand at the threshold of React and the realm of the Final Project, yet the path remains obscured, the quest unfinished.
 
@@ -142,10 +147,16 @@ Our mission is clear: we seek to...
 
 ### 💪 Our Vision
 Guided by our unwavering vision, we strive to encourage...
+</div> 
 
 ### 📜 Our Values
 Rooted in our principles, our values ​​are...
 
 </div>
+
+-->
+
+
+
 
 ********************************************************************************************************************************
