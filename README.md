@@ -46,20 +46,19 @@ For it is not only the technical prowess we seek to forge, but also the refineme
 ## 🚪 An Unexpected Journey | Trilha Zero ✳️
  
 
-<img align="right" src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/5d9cc280-943a-4cb6-bbb9-8e62f3022e4e" title="source: imgur.com" width="265px" />
+<img align="right" src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/5368657c-2a59-432e-bdf5-11408db8c1ca" title="source: imgur.com" width="265px" />
+
+ &nbsp;
 
  <div align="left">
 
-Amidst the misty realms of code and creation, a journey unfolds, akin to the tales of Middle-earth.
+In the realms of code and creation, behold the Trilha Zero, where tech enthusiasts converge. I explored Portugol's syntax and algorithms, with artifacts in this repository: [Trilha Zero](https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Trilha_Zero). 
 &nbsp;
-Behold, the Trilha Zero, where the paths of technomancers and aspiring sorcerers converge.
 
-During this period, I traversed the enchanted lands of **Portugol**, delving into its ancient syntax and arcane algorithms.
+May your journey continue and your codes flourish! 🌟🔮🌿
 
-The artifacts of my endeavors lie within the sacred halls of this repository, accessible to those who seek knowledge and wisdom: [Trilha Zero](https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Trilha_Zero)
-
-May the journey continue, and may your codes flourish like autumn leaves! 🌟🔮🌿
-
+</div>
+&nbsp;
 
 <!--Amidst the misty realms of code and creation, a journey unfolds, akin to the tales of Middle-earth.
 &nbsp;
@@ -72,7 +71,7 @@ During this period, I traversed the enchanted lands of the **Portugol** tongue, 
 
 The artifacts of my endeavors lie within the sacred halls of this repository, accessible to those who seek knowledge and wisdom: [**Trilha Zero**](https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Trilha_Zero) -->
 
-</div>
+
 
 
 ********************************************************************************************************************************
