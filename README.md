@@ -45,7 +45,7 @@ For it is not only the technical prowess we seek to forge, but also the refineme
 ********************************************************************************************************************************
 ## 🚪 An Unexpected Journey | Trilha Zero ✳️
 
-<img align="right" src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/5368657c-2a59-432e-bdf5-11408db8c1ca" title="source: imgur.com" width="265px" />
+<img align="right" src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/5368657c-2a59-432e-bdf5-11408db8c1ca" title="source: imgur.com" width="255px" />
 
 &nbsp;
 
@@ -79,19 +79,16 @@ The artifacts of my endeavors lie within the sacred halls of this repository, ac
 
 ## 1️⃣ The Fellowship of the Ring | Bloco 01 (Java & Github)
 
-&nbsp;
-
 <div align="justify">
   
 &nbsp;
 In this phase, I embarked on a journey through the lands of Java, delving deep into its mysteries for one moon's cycle. To uncover the knowledge I acquired, venture forth to the folder `Bloco_01/java` within this repository: [**Java**](https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Bloco_01). Furthermore, I wielded the enchanted Notion app to chronicle my learnings from the sagas shared in the [**My cookBook**](https://www.notion.so/camillalourenco/cookbook_java-96759ce7318749e0b76690768876225a), bestowed upon students by the wise scholars.
 
-<img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/460d0633-3577-453f-9435-d4789781e45f" alt="OIG3__3_-removebg-preview" width="320" align="left"/>
+<img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/51aa2b4e-eec0-44eb-9539-ed34f7bfbba4" alt="OIG3__3_-removebg-preview" width="300" align="left"/>
+ 
 
 &nbsp;
 </div>
-
-
 
 &nbsp;
 - [ ] Scrolls of wisdom on [**Java**](https://github.com/free-educa/books/blob/main/books/JavaScript%20O%20Guia%20Definitivo_v2.pdf);
@@ -102,7 +99,7 @@ In this phase, I embarked on a journey through the lands of Java, delving deep i
 
 **🚧 🏗️ 🚧**
 
-<!-- ### 🛠️ Final Project: Not Completed Yet
+ ### 🛠️ Final Project: 
 
 I ventured into the realm of [**Final Project**](https://github.com/caoslourenco/Project_01), where the quest remains ongoing, awaiting its grand completion.
 
@@ -112,7 +109,7 @@ With this valiant fellowship, I witnessed firsthand the first pillar of the agil
 
 → A chronicle of this adventure resides in the annals of LinkedIn: [**Not_completed**](https://www.linkedin.com/camilla-lourenco)
 
-</div> -->
+</div>  
 &nbsp;
 
 ********************************************************************************************************************************
