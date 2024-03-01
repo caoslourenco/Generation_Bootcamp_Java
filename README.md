@@ -20,7 +20,8 @@
 The **Bootcamp of the Full-stack Java Developer** is akin to a journey through Middle-earth, a 3-month odyssey sponsored by [**Generation Brazil**](https://brazil.generation.org/), where each leg of the journey focuses on different realms of technology. Yet, woven into the fabric of this quest are the vital non-technical skills, the soft skills, which are not merely discussed but lived and breathed each passing day. Behold, the virtues that are honed and celebrated daily:
 
 <div style="margin-bottom: 60px;"> <!-- Aumentando a margem inferior para 60px -->
-  <img align="right" src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/30adae0d-e7c3-462a-af25-32df125626e8" title="source: imgur.com" width="275px" style="margin-left: 20px; margin-top: 20px;" />
+  <img align="right" src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/b6ab82e8-5c99-4dc1-a94d-1a2abb6c8d65" title="source: imgur.com" width="275px" style="margin-left: 20px; margin-top: 20px;" />
+ 
 
  &nbsp;
  
@@ -42,23 +43,23 @@ For it is not only the technical prowess we seek to forge, but also the refineme
 <br> <!-- Adicionando uma quebra de linha aqui -->
 
 ********************************************************************************************************************************
-
 ## 🚪 An Unexpected Journey | Trilha Zero ✳️
- 
 
 <img align="right" src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/5368657c-2a59-432e-bdf5-11408db8c1ca" title="source: imgur.com" width="265px" />
 
- &nbsp;
+&nbsp;
 
- <div align="left">
+<div align="left">
 
-In the realms of code and creation, behold the Trilha Zero, where tech enthusiasts converge. I explored Portugol's syntax and algorithms, with artifacts in this repository: [Trilha Zero](https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Trilha_Zero). 
+In the realms of code and creation, behold the Trilha Zero, where tech enthusiasts converge. I explored Portugol's syntax and algorithms, with artifacts in this repository: [Trilha Zero](https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Trilha_Zero).  
 &nbsp;
 
 May your journey continue and your codes flourish! 🌟🔮🌿
 
 </div>
+
 &nbsp;
+ 
 
 <!--Amidst the misty realms of code and creation, a journey unfolds, akin to the tales of Middle-earth.
 &nbsp;
