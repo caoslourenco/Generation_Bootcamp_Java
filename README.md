@@ -34,7 +34,7 @@ The **Bootcamp of the Full-stack Java Developer** is akin to a journey through M
 - [x] Orientation to the future, the compass guiding our tomorrows;
 - [x] Persistence, the steadfast resolve in the face of adversity.
 
-
+&nbsp;
 
 For it is not only the technical prowess we seek to forge, but also the refinement of these behavioral skills, which I dare say, are the true treasures of any noble endeavor.
 
@@ -74,8 +74,9 @@ The artifacts of my endeavors lie within the sacred halls of this repository, ac
 
 
 
-
+&nbsp;
 ********************************************************************************************************************************
+
 ## 1️⃣ The Fellowship of the Ring | Bloco 01 (Java & Github)
 
 &nbsp;
