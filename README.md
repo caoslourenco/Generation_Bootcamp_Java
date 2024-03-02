@@ -178,9 +178,12 @@ Rooted in our principles, our values ​​are...
 
 
 ********************************************************************************************************************************
-<h1>Journey's End: Reflections on the Generation Bootcamp</h1>
+ 
+## ✍️There and Back Again: Reflections on the Generation Bootcamp 
 
-<img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/7973cb31-ae65-4d03-ae49-e5cda08e2058" alt="OIG3__3_-removebg-preview" width="255" align="right"/> 
+<img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/f24c2e63-2c3a-4bf9-b796-11e8a4ec9596" alt="OIG3__3_-removebg-preview" width="255" align="right"/> 
+
 &nbsp;
-<p>As the Generation bootcamp drew to a close, participants felt a mix of anticipation and nostalgia, akin to Bilbo Baggins at journey's end. Reflecting on challenges overcome and bonds formed, they prepared to part ways, each equipped for their next adventure.
-  With hearts heavy yet spirits lifted, they bid farewell, knowing their paths were forever changed by the bootcamp's transformative journey. Like Bilbo returning to the Shire, they carried the memories and lessons learned, ready to embark on new endeavors with courage and resilience.</p>
+
+<p>Every journey must eventually come to an end, but with endings come new beginnings. As the Generation bootcamp drew to a close, participants felt a mix of anticipation and nostalgia, akin to Bilbo Baggins at journey's end. Reflecting on challenges overcome and bonds formed, they prepared to part ways, each equipped for their next adventure. With hearts heavy yet spirits lifted, they bid farewell, knowing their paths were forever changed by the bootcamp's transformative journey. Like Bilbo returning to the Shire, they carried the memories and lessons learned, ready to embark on new endeavors with courage and resilience.</p>
+
