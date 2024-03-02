@@ -185,5 +185,10 @@ Rooted in our principles, our values ​​are...
 
 &nbsp;
 
-<p>Every journey must eventually come to an end, but with endings come new beginnings. As the Generation bootcamp drew to a close, participants felt a mix of anticipation and nostalgia, akin to Bilbo Baggins at journey's end. Reflecting on challenges overcome and bonds formed, they prepared to part ways, each equipped for their next adventure. With hearts heavy yet spirits lifted, they bid farewell, knowing their paths were forever changed by the bootcamp's transformative journey. Like Bilbo returning to the Shire, they carried the memories and lessons learned, ready to embark on new endeavors with courage and resilience.</p>
+<p>Every path must eventually find its end, yet with endings, new beginnings unfurl. As the Generation bootcamp reached its final chapter, participants found themselves ensnared in a tapestry of anticipation and wistfulness, much akin to Bilbo Baggins upon his return to Bag End. Amidst reflections upon conquered trials and forged alliances, they readied themselves to part ways, each embarking upon their own winding road, armed with the lessons of yore. Though hearts weighed down with the burdens of departure, spirits soared like eagles upon the thermals, bidding adieu, cognizant that their trails were irrevocably altered by the transformative crucible of the bootcamp. Like Bilbo's journey back to the tranquil Shire, they bore with them the troves of memories and the wisdom of their trials, prepared to face the unknown with valor and steadfastness.</p>
 
+&nbsp;
+<p align="right" style="color: #003100;">
+      <img src="https://komarev.com/ghpvc/?username=clouenc&label=Madmoon+marches+🧙‍♂️&color=003100" alt="Madmoon Marches 🧙‍♂️"/>
+  </a>
+</p>
