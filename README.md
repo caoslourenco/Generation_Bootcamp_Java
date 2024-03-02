@@ -114,7 +114,8 @@ With this valiant fellowship, I witnessed firsthand the first pillar of the agil
 
 ********************************************************************************************************************************
 ## 2️⃣ The Two Towers | Bloco 02 (SQL & Spring) | **🚧 🏗️ 🚧**
-![WhatWasThatWtfIsGoingOnGIF](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/050916e1-e9b8-4078-9de2-7363b5c28d3c)
+
+![OIG1__5_-removebg-preview](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/26186ee2-c2f5-4c5a-85b3-65d9e2d9a637)
 
 <!-- <div align="left">
 
