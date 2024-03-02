@@ -140,7 +140,9 @@ Additionally, you can check out my design on Figma: [Simple Portfolio Template](
 ********************************************************************************************************************************
 
 ## 3️⃣ The Return of the King | Bloco 03 (React & Final Project) | **🚧 🏗️ 🚧**
-![BowRespectGIF](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/f1f9d941-833f-4f0a-9cb9-b7c028e2a3fe)
+
+ ![OIG3__5_-removebg-preview](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/c8993ab7-bda9-4fd1-a4a5-8a29c1098ded)
+
 
 
 **🚧 🏗️ 🚧**
