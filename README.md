@@ -20,7 +20,7 @@
 The **Bootcamp of the Full-stack Java Developer** is akin to a journey through Middle-earth, a 3-month odyssey sponsored by [**Generation Brazil**](https://brazil.generation.org/), where each leg of the journey focuses on different realms of technology. Yet, woven into the fabric of this quest are the vital non-technical skills, the soft skills, which are not merely discussed but lived and breathed each passing day. Behold, the virtues that are honed and celebrated daily:
 
 <div style="margin-bottom: 60px;"> <!-- Aumentando a margem inferior para 60px -->
-  <img align="right" src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/b6ab82e8-5c99-4dc1-a94d-1a2abb6c8d65" title="source: imgur.com" width="275px" style="margin-left: 20px; margin-top: 20px;" />
+  <img align="right" src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/b6ab82e8-5c99-4dc1-a94d-1a2abb6c8d65" title="source: imgur.com" width="255px" style="margin-left: 20px; margin-top: 20px;" />
  
 
  &nbsp;
@@ -84,7 +84,7 @@ The artifacts of my endeavors lie within the sacred halls of this repository, ac
 &nbsp;
 In this phase, I embarked on a journey through the lands of Java, delving deep into its mysteries for one moon's cycle. To uncover the knowledge I acquired, venture forth to the folder `Bloco_01/java` within this repository: [**Java**](https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Bloco_01). Furthermore, I wielded the enchanted Notion app to chronicle my learnings from the sagas shared in the [**My cookBook**](https://www.notion.so/camillalourenco/cookbook_java-96759ce7318749e0b76690768876225a), bestowed upon students by the wise scholars.
 
-<img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/51aa2b4e-eec0-44eb-9539-ed34f7bfbba4" alt="OIG3__3_-removebg-preview" width="300" align="left"/>
+<img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/51aa2b4e-eec0-44eb-9539-ed34f7bfbba4" alt="OIG3__3_-removebg-preview" width="255" align="left"/>
  
 
 &nbsp;
@@ -95,6 +95,7 @@ In this phase, I embarked on a journey through the lands of Java, delving deep i
 - [ ] Tome of lore on the introduction to [**Git and Github**](https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Bloco_01/git);
 - [ ] Brief chronicle of the Java project: [**GenStudents**](https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Bloco_01/java);
 - [ ] Scroll of guidance on the sacred journey: [**Generation First Project**](https://github.com/caoslourenco/Conta_Bancaria);
+
 &nbsp;
 
 **🚧 🏗️ 🚧**
@@ -115,8 +116,8 @@ With this valiant fellowship, I witnessed firsthand the first pillar of the agil
 ********************************************************************************************************************************
 ## 2️⃣ The Two Towers | Bloco 02 (SQL & Spring) | **🚧 🏗️ 🚧**
 
-![OIG1__5_-removebg-preview](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/26186ee2-c2f5-4c5a-85b3-65d9e2d9a637)
-
+ <img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/26186ee2-c2f5-4c5a-85b3-65d9e2d9a637" alt="OIG3__3_-removebg-preview" width="255" align="center"/>
+ 
 <!-- <div align="left">
 
 In this chapter of my journey, I found myself amidst the towering citadels of SQL and Spring, realms teeming with data and the vitality of creation, yet the path remains untrodden, the quest unfinished.
@@ -141,9 +142,9 @@ Additionally, you can check out my design on Figma: [Simple Portfolio Template](
 
 ## 3️⃣ The Return of the King | Bloco 03 (React & Final Project) | **🚧 🏗️ 🚧**
 
- ![OIG3__5_-removebg-preview](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/c8993ab7-bda9-4fd1-a4a5-8a29c1098ded)
+ 
 
-
+ <img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/c8993ab7-bda9-4fd1-a4a5-8a29c1098ded" alt="OIG3__3_-removebg-preview" width="255" align="center"/>
 
 **🚧 🏗️ 🚧**
 
