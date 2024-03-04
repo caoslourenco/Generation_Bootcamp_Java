@@ -94,7 +94,7 @@ In this phase, I embarked on a journey through the lands of Java, delving deep i
 - [ ] Scrolls of wisdom on [**Java**](https://github.com/free-educa/books/blob/main/books/JavaScript%20O%20Guia%20Definitivo_v2.pdf);
 - [ ] Tome of lore on the introduction to [**Git and Github**](https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Bloco_01/git);
 - [ ] Brief chronicle of the Java project: [**GenStudents**](https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Bloco_01/java);
-- [ ] Scroll of guidance on the sacred journey: [**Generation First Project**](https://github.com/caoslourenco/Conta_Bancaria);
+- [ ] Scroll of guidance on the sacred journey: [**Generation First Project**](https://github.com/caoslourenco/contabancaria);
 
 &nbsp;
 
