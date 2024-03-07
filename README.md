@@ -31,42 +31,7 @@
   </a>
 </p>
 
---
- <!--
-<div align="justify">
-  
-&nbsp;
-In this phase, I embarked on a journey through the lands of Java, delving deep into its mysteries for one moon's cycle. To uncover the knowledge I acquired, venture forth to the folder `Bloco_01/java` within this repository: [**Java**](https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Bloco_01). Furthermore, I wielded the enchanted Notion app to chronicle my learnings from the sagas shared in the [**My cookBook**](https://www.notion.so/camillalourenco/cookbook_java-96759ce7318749e0b76690768876225a), bestowed upon students by the wise scholars.
 
-<img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/51aa2b4e-eec0-44eb-9539-ed34f7bfbba4" alt="OIG3__3_-removebg-preview" width="255" align="left"/>
- 
-
-&nbsp;
-</div>
-
-&nbsp;
-- [ ] Scrolls of wisdom on [**Java**](https://github.com/free-educa/books/blob/main/books/JavaScript%20O%20Guia%20Definitivo_v2.pdf);
-- [ ] Tome of lore on the introduction to [**Git and Github**](https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Bloco_01/git);
-- [ ] Brief chronicle of the Java project: [**GenStudents**](https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Bloco_01/java);
-- [ ] Scroll of guidance on the sacred journey: [**Generation First Project**](https://github.com/caoslourenco/contabancaria);
-
-&nbsp;
-
-**🚧 🏗️ 🚧**
-
- ### 🛠️ Final Project: 
-
-I ventured into the realm of [**Final Project**](https://github.com/caoslourenco/Project_01), where the quest remains ongoing, awaiting its grand completion.
-
-The fellowship I journeyed with remains a tale yet untold: ?
-
-With this valiant fellowship, I witnessed firsthand the first pillar of the agile manifesto in action: **_Individuals and interactions over processes and tools._**
-
-→ A chronicle of this adventure resides in the annals of LinkedIn: [**Not_completed**](https://www.linkedin.com/camilla-lourenco)
-
-</div>  
-&nbsp;
--->
 ``|🚨 Caution: Work in progress 🚨| ``
 ********************************************************************************************************************************
  <h2 align="center">⚔️Unveiling the SQL & Spring Path</h2>
@@ -87,25 +52,6 @@ With this valiant fellowship, I witnessed firsthand the first pillar of the agil
 </p>
 
  
-<!-- <div align="left">
-
-In this chapter of my journey, I found myself amidst the towering citadels of SQL and Spring, realms teeming with data and the vitality of creation, yet the path remains untrodden, the quest unfinished.
-
-**Projects done during this phase:**
-
-🏰 **Project two:** [Backend_Project](https://github.com/caoslourenco/Project_02)
-
-🚧 🏗️ 🚧
-
-📜 **Personal Blog:** 
-
-During my adventures, I've chronicled my experiences and reflections on my personal blog, a sanctuary for thoughts and musings carved in the digital ether: **[ Not named yet, ideias: BagginsCode |coderia| codecave| devzone|caosdev|caosmedev](https://blog-pessoal--sandy.vercel.app/login)**
-
-Additionally, you can check out my design on Figma: [Simple Portfolio Template](https://www.figma.com/proto/4Q1A8Ul1Q2nMxuQNjGauzH/Simple-portfolio-%5BTemplate%5D-(Community)?type=design&node-id=1-12&t=faN7akK3jgHF6YDK-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A12&mode=design)
-🚧 🏗️ 🚧
-
-</div> -->
-
 ``|🚨 Caution: Work in progress 🚨| ``
 ********************************************************************************************************************************
  <h2 align="center">The Final Conquest 🧙‍♂️</h2>
