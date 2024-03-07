@@ -7,6 +7,8 @@
  
 [![Plant Enthusiast LinkedIn Banner (5)](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/1bed3821-e8c4-4670-85ff-56c69a4016ea)](https://brazil.generation.org/sao-paulo/pessoa-desenvolvedora-web-2/)
 
+``📍|Note: Click on the  images or circles to be directed to the respective repositories.|✍️ ``
+
 ***********************************************************************************************************************
 <h2 align="center">🚪 An Unexpected Journey | Trilha Zero ✳️</h2>
 
