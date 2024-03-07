@@ -11,13 +11,10 @@
 
 [![trilha zero 2](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/b6b4d206-ad1c-43db-981c-a312f1ea7477)](https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Trilha_Zero)
 
-********************************************************************************************************************************
+***********************************************************************************************************************
+![Bloco_1_](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/cef0493a-c0ca-47cf-8b44-f47809a4f9e5)](https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Bloco_01)
 
-## 1️⃣ The Fellowship of the Ring 
-
-[![Plant Enthusiast LinkedIn Banner (8)](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/1efa64d0-e934-4b92-b5b2-70b17f7ee4a0)](https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Bloco_01)
-
-![Plant Enthusiast LinkedIn Banner (9)](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/3d5d84d5-52e0-4c97-9288-7673b7319c55)
+![link_para_coockbook](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/3d5d84d5-52e0-4c97-9288-7673b7319c55)
 
 <p align="center">
   <a href="https://github.com/caoslourenco/contabancaria">
