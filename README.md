@@ -207,7 +207,7 @@ Rooted in our principles, our values ​​are...
 
 
 
-
+<!---
 
 [projeto trilha zero] <img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/87a5bad4-0008-48cc-8f9b-c1559a76cf28" width="130">
 -
