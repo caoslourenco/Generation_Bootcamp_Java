@@ -1,13 +1,13 @@
 
 ``|🚨 Caution: Work in progress 🚨| ``
 
-<div align="justify">
+<!--<div align="justify">
 
 <center>
   <h1>Generation Learning | Bootcamp Java - FullStack</h1> <!-- Utilizando a tag <h1> para manter o tamanho do título -->
 </center>
 
-![LinkedIn banner game designer neon roxo e azul (5)](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/1eb4c058-432c-481d-bd6b-d050985cc605)
+<!--![LinkedIn banner game designer neon roxo e azul (5)](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/1eb4c058-432c-481d-bd6b-d050985cc605)
 
 
  </div>
