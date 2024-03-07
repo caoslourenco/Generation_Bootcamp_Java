@@ -16,7 +16,7 @@
 [![trilha zero](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/b6b4d206-ad1c-43db-981c-a312f1ea7477)](https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Trilha_Zero)
 
 ***********************************************************************************************************************
-<h2 align="center">Embarking on the Journey of Java ♨️ </h2>
+<h2 align="center">Embarking on the Adventure of Java ♨️ </h2>
 
 [![Bloco_1_](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/cef0493a-c0ca-47cf-8b44-f47809a4f9e5)](https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Bloco_01)
 
@@ -69,7 +69,7 @@ With this valiant fellowship, I witnessed firsthand the first pillar of the agil
 -->
 ``|🚨 Caution: Work in progress 🚨| ``
 ********************************************************************************************************************************
- <h2 align="center">Unveiling the SQL & Spring Path</h2>
+ <h2 align="center">⚔️Unveiling the SQL & Spring Path</h2>
 
 <p align="center">
   <a href="https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Bloco_02">
@@ -108,8 +108,9 @@ Additionally, you can check out my design on Figma: [Simple Portfolio Template](
 
 ``|🚨 Caution: Work in progress 🚨| ``
 ********************************************************************************************************************************
+ <h2 align="center">The Final Conquest 🧙‍♂️</h2>
  
-[![Banner_bloco_3](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/7e59c720-9f8e-4416-a7ed-2f2c9f0b2c45)](https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Bloco_03)
+ [![Banner_bloco_3](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/7e59c720-9f8e-4416-a7ed-2f2c9f0b2c45)](https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Bloco_03)
  
 
 <p align="center">
