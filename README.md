@@ -70,10 +70,10 @@ With this valiant fellowship, I witnessed firsthand the first pillar of the agil
 ``|🚨 Caution: Work in progress 🚨| ``
 ********************************************************************************************************************************
  <h2 align="center">Unveiling the SQL & Spring Path</h2>
-                                                              **🚧 🏗️ 🚧**
+
 <p align="center">
   <a href="https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Bloco_02">
-    <img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/20f87f71-3f8a-435c-91ec-a93e88e9b986" alt="part 2 (3)">
+    <img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/5cbed8ec-6615-4152-a91c-7692b49eebcc" alt="part 2 (3)">
   </a>
 </p>
  
@@ -108,10 +108,10 @@ Additionally, you can check out my design on Figma: [Simple Portfolio Template](
 
 ``|🚨 Caution: Work in progress 🚨| ``
 ********************************************************************************************************************************
+ 
+[![Banner_bloco_3](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/7e59c720-9f8e-4416-a7ed-2f2c9f0b2c45)](https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Bloco_03)
+ 
 
-## 3️⃣ The Return of the King | Bloco 03 (React & Final Project) | **🚧 🏗️ 🚧** 
-
-![Plant Enthusiast LinkedIn Banner (13)](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/0c3c2929-4f8f-4ee1-a14b-06177935ed8d)
 <p align="center">
   <a href="[link_para_projeto_bloco_3]">
     <img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/b30d0122-b5fb-4779-8508-ad7c2ca0d029" width="130" alt="projeto bloco 3">
