@@ -69,15 +69,13 @@ With this valiant fellowship, I witnessed firsthand the first pillar of the agil
 -->
 ********************************************************************************************************************************
  <h2 align="center">Unveiling the SQL & Spring Path</h2>
-**🚧 🏗️ 🚧**
+                                                              **🚧 🏗️ 🚧**
 <p align="center">
   <a href="https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Bloco_02">
     <img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/20f87f71-3f8a-435c-91ec-a93e88e9b986" alt="part 2 (3)">
   </a>
 </p>
-
-
-
+ 
 <p align="center">
   <a href="[link_para_projeto_bloco_2_1]" style="display: inline-block; margin-right: 20px;">
     <img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/5c41f908-538f-4644-bc73-95c239850c52" width="130" alt="projeto bloco 2 - 1">
