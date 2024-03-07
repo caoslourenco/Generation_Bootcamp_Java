@@ -68,9 +68,25 @@ With this valiant fellowship, I witnessed firsthand the first pillar of the agil
 &nbsp;
 -->
 ********************************************************************************************************************************
-## 2️⃣ The Two Towers | Bloco 02 (SQL & Spring) | **🚧 🏗️ 🚧**
+ <h2 align="center">Unveiling the SQL & Spring Path</h2>
+**🚧 🏗️ 🚧**
+<p align="center">
+  <a href="https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Bloco_02">
+    <img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/20f87f71-3f8a-435c-91ec-a93e88e9b986" alt="part 2 (3)">
+  </a>
+</p>
 
- <img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/26186ee2-c2f5-4c5a-85b3-65d9e2d9a637" alt="OIG3__3_-removebg-preview" width="255" align="center"/>
+
+
+<p align="center">
+  <a href="[link_para_projeto_bloco_2_1]" style="display: inline-block; margin-right: 20px;">
+    <img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/5c41f908-538f-4644-bc73-95c239850c52" width="130" alt="projeto bloco 2 - 1">
+  </a>
+  <a href="[link_para_projeto_bloco_2_2]" style="display: inline-block;">
+    <img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/a7483913-d439-4f41-b814-e68884e470ac" width="130" alt="projeto bloco 2 - 2">
+  </a>
+</p>
+
  
 <!-- <div align="left">
 
@@ -162,13 +178,9 @@ Rooted in our principles, our values ​​are...
 
 [projeto trilha zero] <img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/87a5bad4-0008-48cc-8f9b-c1559a76cf28" width="130">
 -
-[conta de banco - projeto 1] <img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/d1800339-5937-4ca1-b23a-c8f06996d805" width="130">
+
 --
-[projeto grupo 1]  <img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/8e5bfcec-11c6-4ded-acd3-1ffa971252ab" width="130">
---
-[projeto bloco 2 - 1] <img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/5c41f908-538f-4644-bc73-95c239850c52" width="130">
---
-[projeto bloco 2 - 2] <img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/a7483913-d439-4f41-b814-e68884e470ac" width="130">
+
 --
 [projeto bloco 3]  <img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/b30d0122-b5fb-4779-8508-ad7c2ca0d029" width="130">
 
