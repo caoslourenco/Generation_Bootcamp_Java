@@ -47,8 +47,10 @@ For it is not only the technical prowess we seek to forge, but also the refineme
 
 ********************************************************************************************************************************
 ## 🚪 An Unexpected Journey | Trilha Zero ✳️
+[![trilha zero](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/fbd3853c-ab2f-4520-b5ae-19dd5a449d09)](https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Trilha_Zero)
 
-<img align="right" src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/5368657c-2a59-432e-bdf5-11408db8c1ca" title="source: imgur.com" width="255px" />
+
+<!--<img align="right" src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/5368657c-2a59-432e-bdf5-11408db8c1ca" title="source: imgur.com" width="255px" />
 &nbsp;
 <div align="left">
 
