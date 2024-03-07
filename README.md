@@ -1,87 +1,35 @@
 
 ``|🚨 Caution: Work in progress 🚨| ``
 
-<!--<div align="justify">
-
-<center>
-  <h1>Generation Learning | Bootcamp Java - FullStack</h1> <!-- Utilizando a tag <h1> para manter o tamanho do título -->
-</center>
-
-<!--![LinkedIn banner game designer neon roxo e azul (5)](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/1eb4c058-432c-481d-bd6b-d050985cc605)
-
-
- </div>
-
-<hr> <!-- Removendo a linha horizontal -->
-
-
 
 
 ## 🌳 Introduction...  🖥️ 
 [![Plant Enthusiast LinkedIn Banner (5)](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/1bed3821-e8c4-4670-85ff-56c69a4016ea)](https://brazil.generation.org/sao-paulo/pessoa-desenvolvedora-web-2/)
 
-<!--The **Bootcamp of the Full-stack Java Developer** is akin to a journey through Middle-earth, a 3-month odyssey sponsored by [**Generation Brazil**](https://brazil.generation.org/), where each leg of the journey focuses on different realms of technology. Yet, woven into the fabric of this quest are the vital non-technical skills, the soft skills, which are not merely discussed but lived and breathed each passing day. Behold, the virtues that are honed and celebrated daily:
-
-<div style="margin-bottom: 60px;"> <!-- Aumentando a margem inferior para 60px -->
-<!--  <img align="right" src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/b6ab82e8-5c99-4dc1-a94d-1a2abb6c8d65" title="source: imgur.com" width="255px" style="margin-left: 20px; margin-top: 20px;" />
- 
-
- &nbsp;
- 
-- [x] Proactivity, the spark that ignites new ventures;
-- [x] Teamwork, the fellowship that binds us together;
-- [x] Communication, the language that bridges worlds;
-- [x] Personal responsibility, the mantle we bear as stewards of our own fate;
-- [x] Empathy, the gift of understanding amidst diverse journeys;
-- [x] Attention to detail, the meticulous craft of the artisan;
-- [x] Orientation to the future, the compass guiding our tomorrows;
-- [x] Persistence, the steadfast resolve in the face of adversity.
-
-&nbsp;
-
-For it is not only the technical prowess we seek to forge, but also the refinement of these behavioral skills, which I dare say, are the true treasures of any noble endeavor.
-
-</div>
-
-<br>  Adicionando uma quebra de linha aqui --->
-
-********************************************************************************************************************************
+***********************************************************************************************************************
 ## 🚪 An Unexpected Journey | Trilha Zero ✳️
 
 [![trilha zero 2](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/b6b4d206-ad1c-43db-981c-a312f1ea7477)](https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Trilha_Zero)
 
-<!--<img align="right" src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/5368657c-2a59-432e-bdf5-11408db8c1ca" title="source: imgur.com" width="255px" />
-&nbsp;
-<div align="left">
-
-In the realms of code and creation, behold the Trilha Zero, where tech enthusiasts converge. I explored Portugol's syntax and algorithms, with artifacts in this repository: [Trilha Zero](https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Trilha_Zero).  
-&nbsp;
-
-May your journey continue and your codes flourish! 🌟🔮🌿
-
-</div>
-
-&nbsp;
- 
-
-<!--Amidst the misty realms of code and creation, a journey unfolds, akin to the tales of Middle-earth.
-&nbsp;
-
-Behold, the Trilha Zero, where the paths of technomancers and aspiring sorcerers converge.
-&nbsp;
-
-During this period, I traversed the enchanted lands of the **Portugol** tongue, delving into its ancient syntax and arcane algorithms. 
-&nbsp;
-
-The artifacts of my endeavors lie within the sacred halls of this repository, accessible to those who seek knowledge and wisdom: [**Trilha Zero**](https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Trilha_Zero) -->
-
-
-
-&nbsp;
 ********************************************************************************************************************************
 
-## 1️⃣ The Fellowship of the Ring | Bloco 01 (Java & Github)
+## 1️⃣ The Fellowship of the Ring 
 
+[![Plant Enthusiast LinkedIn Banner (8)](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/1efa64d0-e934-4b92-b5b2-70b17f7ee4a0)](https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Bloco_01)
+
+![Plant Enthusiast LinkedIn Banner (9)](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/3d5d84d5-52e0-4c97-9288-7673b7319c55)
+
+<p align="center">
+  <a href="https://github.com/caoslourenco/contabancaria">
+    <img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/d1800339-5937-4ca1-b23a-c8f06996d805" width="130" alt="conta de banco - projeto 1">
+  </a>
+  <a href="https://github.com/caoslourenco/contabancaria">
+    <img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/8e5bfcec-11c6-4ded-acd3-1ffa971252ab" width="130" alt="projeto grupo 1">
+  </a>
+</p>
+
+--
+ <!--
 <div align="justify">
   
 &nbsp;
@@ -115,7 +63,7 @@ With this valiant fellowship, I witnessed firsthand the first pillar of the agil
 
 </div>  
 &nbsp;
-
+-->
 ********************************************************************************************************************************
 ## 2️⃣ The Two Towers | Bloco 02 (SQL & Spring) | **🚧 🏗️ 🚧**
 
