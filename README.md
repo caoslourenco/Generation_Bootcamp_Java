@@ -18,11 +18,13 @@
 
 
 ## 🌳 Introduction...  🖥️ 
+![Plant Enthusiast LinkedIn Banner (3)](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/4cda40c9-7171-43cc-87a7-87f037487968)
 
-The **Bootcamp of the Full-stack Java Developer** is akin to a journey through Middle-earth, a 3-month odyssey sponsored by [**Generation Brazil**](https://brazil.generation.org/), where each leg of the journey focuses on different realms of technology. Yet, woven into the fabric of this quest are the vital non-technical skills, the soft skills, which are not merely discussed but lived and breathed each passing day. Behold, the virtues that are honed and celebrated daily:
+
+<!--The **Bootcamp of the Full-stack Java Developer** is akin to a journey through Middle-earth, a 3-month odyssey sponsored by [**Generation Brazil**](https://brazil.generation.org/), where each leg of the journey focuses on different realms of technology. Yet, woven into the fabric of this quest are the vital non-technical skills, the soft skills, which are not merely discussed but lived and breathed each passing day. Behold, the virtues that are honed and celebrated daily:
 
 <div style="margin-bottom: 60px;"> <!-- Aumentando a margem inferior para 60px -->
-  <img align="right" src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/b6ab82e8-5c99-4dc1-a94d-1a2abb6c8d65" title="source: imgur.com" width="255px" style="margin-left: 20px; margin-top: 20px;" />
+<!--  <img align="right" src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/b6ab82e8-5c99-4dc1-a94d-1a2abb6c8d65" title="source: imgur.com" width="255px" style="margin-left: 20px; margin-top: 20px;" />
  
 
  &nbsp;
@@ -42,7 +44,7 @@ For it is not only the technical prowess we seek to forge, but also the refineme
 
 </div>
 
-<br> <!-- Adicionando uma quebra de linha aqui -->
+<br>  Adicionando uma quebra de linha aqui --->
 
 ********************************************************************************************************************************
 ## 🚪 An Unexpected Journey | Trilha Zero ✳️
@@ -192,3 +194,29 @@ Rooted in our principles, our values ​​are...
       <img src="https://komarev.com/ghpvc/?username=clouenc&label=Madmoon+marches+🧙‍♂️&color=003100" alt="Madmoon Marches 🧙‍♂️"/>
   </a>
 </p>
+-----------
+
+
+
+
+
+
+
+
+
+
+
+
+
+[projeto trilha zero] <img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/87a5bad4-0008-48cc-8f9b-c1559a76cf28" width="130">
+-
+[conta de banco - projeto 1] <img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/d1800339-5937-4ca1-b23a-c8f06996d805" width="130">
+--
+[projeto grupo 1]  <img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/8e5bfcec-11c6-4ded-acd3-1ffa971252ab" width="130">
+--
+[projeto bloco 2 - 1] <img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/5c41f908-538f-4644-bc73-95c239850c52" width="130">
+--
+[projeto bloco 2 - 2] <img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/a7483913-d439-4f41-b814-e68884e470ac" width="130">
+--
+[projeto bloco 3]  <img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/b30d0122-b5fb-4779-8508-ad7c2ca0d029" width="130">
+
