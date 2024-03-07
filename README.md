@@ -151,37 +151,22 @@ Rooted in our principles, our values ​​are...
 
 ********************************************************************************************************************************
  
-## ✍️There and Back Again: Reflections on the Generation Bootcamp 
+<h2 align="center">✍️Reflections on the Generation Bootcamp</h2>
 
-<img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/f24c2e63-2c3a-4bf9-b796-11e8a4ec9596" alt="OIG3__3_-removebg-preview" width="255" align="right"/> 
-
+![rrr](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/bdd65806-8f01-454b-a7c4-980f52bf45ec)
 &nbsp;
 
-<p>Every path must eventually find its end, yet with endings, new beginnings unfurl. As the Generation bootcamp reached its final chapter, participants found themselves ensnared in a tapestry of anticipation and wistfulness, much akin to Bilbo Baggins upon his return to Bag End. Amidst reflections upon conquered trials and forged alliances, they readied themselves to part ways, each embarking upon their own winding road, armed with the lessons of yore. Though hearts weighed down with the burdens of departure, spirits soared like eagles upon the thermals, bidding adieu, cognizant that their trails were irrevocably altered by the transformative crucible of the bootcamp. Like Bilbo's journey back to the tranquil Shire, they bore with them the troves of memories and the wisdom of their trials, prepared to face the unknown with valor and steadfastness.</p>
+ ![Plant Enthusiast LinkedIn Banner (16)](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/03507ddf-2735-40bb-a0b9-949725f10bb0)
+
 
 &nbsp;
 <p align="right" style="color: #003100;">
       <img src="https://komarev.com/ghpvc/?username=clouenc&label=Madmoon+marches+🧙‍♂️&color=003100" alt="Madmoon Marches 🧙‍♂️"/>
   </a>
 </p>
------------
-
-
-
-
-
-
-
-
 
 
 
 <!---
 
 [projeto trilha zero] <img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/87a5bad4-0008-48cc-8f9b-c1559a76cf28" width="130">
--
-
---
-
---
-
