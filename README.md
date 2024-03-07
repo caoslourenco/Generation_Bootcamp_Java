@@ -67,6 +67,7 @@ With this valiant fellowship, I witnessed firsthand the first pillar of the agil
 </div>  
 &nbsp;
 -->
+``|🚨 Caution: Work in progress 🚨| ``
 ********************************************************************************************************************************
  <h2 align="center">Unveiling the SQL & Spring Path</h2>
                                                               **🚧 🏗️ 🚧**
@@ -105,14 +106,17 @@ Additionally, you can check out my design on Figma: [Simple Portfolio Template](
 
 </div> -->
 
-
+``|🚨 Caution: Work in progress 🚨| ``
 ********************************************************************************************************************************
 
-## 3️⃣ The Return of the King | Bloco 03 (React & Final Project) | **🚧 🏗️ 🚧**
+## 3️⃣ The Return of the King | Bloco 03 (React & Final Project) | **🚧 🏗️ 🚧** 
 
- 
-
- <img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/c8993ab7-bda9-4fd1-a4a5-8a29c1098ded" alt="OIG3__3_-removebg-preview" width="255" align="center"/>
+![Plant Enthusiast LinkedIn Banner (13)](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/0c3c2929-4f8f-4ee1-a14b-06177935ed8d)
+<p align="center">
+  <a href="[link_para_projeto_bloco_3]">
+    <img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/b30d0122-b5fb-4779-8508-ad7c2ca0d029" width="130" alt="projeto bloco 3">
+  </a>
+</p>
 
 **🚧 🏗️ 🚧**
 
@@ -143,7 +147,7 @@ Rooted in our principles, our values ​​are...
 -->
 
 
-
+``|🚨 Caution: Work in progress 🚨| ``
 
 ********************************************************************************************************************************
  
@@ -180,5 +184,4 @@ Rooted in our principles, our values ​​are...
 --
 
 --
-[projeto bloco 3]  <img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/b30d0122-b5fb-4779-8508-ad7c2ca0d029" width="130">
 
