@@ -101,9 +101,9 @@ Rooted in our principles, our values ​​are...
  
 <h2 align="center">✍️Reflections on the Generation Bootcamp</h2>
 
-![rrr](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/bdd65806-8f01-454b-a7c4-980f52bf45ec)
-&nbsp;
 
+![rrr (1)](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/6bf9da58-bccc-46d7-8d0a-9b105e978ac2)
+&nbsp;
  ![Plant Enthusiast LinkedIn Banner (16)](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/03507ddf-2735-40bb-a0b9-949725f10bb0)
 
 <p align="center">
