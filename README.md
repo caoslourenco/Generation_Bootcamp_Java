@@ -12,14 +12,12 @@
 ***********************************************************************************************************************
 <h2 align="center">🚪 An Unexpected Journey | Trilha Zero ✳️</h2>
 
-
-[![trilha zero](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/b6b4d206-ad1c-43db-981c-a312f1ea7477)](https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Trilha_Zero)
+[![trilha zero](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/dd20dd90-97e5-4f86-b7c8-fddd2f0badff)](https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Trilha_Zero)
 
 ***********************************************************************************************************************
 <h2 align="center">Embarking on the Adventure of Java ♨️ </h2>
 
 [![Bloco_1_](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/30c21def-72c8-4f9a-b17e-ec3ec80a0101)](https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Bloco_01)
-
 [![link_para_coockbook](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/9379212a-5d24-4268-b577-2105c1d67c5d)](https://github.com/conteudoGeneration/cookbook_java_fullstack/)
  
 <p align="center">
