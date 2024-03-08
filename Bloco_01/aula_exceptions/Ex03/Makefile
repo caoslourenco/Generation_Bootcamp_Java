@@ -28,7 +28,7 @@ $(CLASS): $(SOURCE)
 
 # Regra para executar o programa
 $(EXECUTABLE): $(CLASS)
-	$(JAVA) -cp $(BIN_DIR) aula_exceptions.TestaExcecaoSimples
+	$(JAVA) -cp $(BIN_DIR) aula_exceptions.$(EXECUTABLE)
 
 # Limpar arquivos temporários
 clean:
@@ -41,4 +41,4 @@ fclean: clean
 re: fclean all
 
 # Regra phony para forçar a execução mesmo que exista um arquivo com o mesmo nome
-.PHONY: all clean fclean re $(EXECUTABLE)
+.PHONY: all clean fclean re
