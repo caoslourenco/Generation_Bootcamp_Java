@@ -34,19 +34,19 @@
 
 ``|🚨 Caution: Work in progress 🚨| ``
 ********************************************************************************************************************************
- <h2 align="center">⚔️Unveiling the SQL & Spring Path</h2>
+ <h2 align="center">⚔️Unveiling the SQL & Spring Path ⚔️ </h2>
 
-<p align="center">
+ <p align="center">
   <a href="https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Bloco_02">
-    <img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/5cbed8ec-6615-4152-a91c-7692b49eebcc" alt="part 2 (3)">
+    <img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/7f2b87d3-fc8f-4236-9110-f1ea1e558b9f" alt="part 2 (3)">
   </a>
 </p>
  
 <p align="center">
-  <a href="[link_para_projeto_bloco_2_1]" style="display: inline-block; margin-right: 20px;">
+  <a href="https://github.com/caoslourenco/Como_the_llama_GameStore" style="display: inline-block; margin-right: 20px;">
     <img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/5c41f908-538f-4644-bc73-95c239850c52" width="130" alt="projeto bloco 2 - 1">
   </a>
-  <a href="[link_para_projeto_bloco_2_2]" style="display: inline-block;">
+  <a href="https://github.com/caoslourenco/devExplora" style="display: inline-block;">
     <img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/a7483913-d439-4f41-b814-e68884e470ac" width="130" alt="projeto bloco 2 - 2">
   </a>
 </p>
@@ -56,7 +56,8 @@
 ********************************************************************************************************************************
  <h2 align="center">The Final Conquest 🧙‍♂️</h2>
  
- [![Banner_bloco_3](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/7e59c720-9f8e-4416-a7ed-2f2c9f0b2c45)](https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Bloco_03)
+
+ [![Banner_bloco_3](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/4a749720-b8a7-4b3b-827f-233f67f60bd3)](https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Bloco_03)
  
 
 <p align="center">
@@ -105,6 +106,12 @@ Rooted in our principles, our values ​​are...
 
  ![Plant Enthusiast LinkedIn Banner (16)](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/03507ddf-2735-40bb-a0b9-949725f10bb0)
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/camilla-lourenco/">
+    <img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/87a5bad4-0008-48cc-8f9b-c1559a76cf28" width="75">
+  </a>
+</p>
+
 
 &nbsp;
 <p align="right" style="color: #003100;">
@@ -113,7 +120,3 @@ Rooted in our principles, our values ​​are...
 </p>
 
 
-
-<!---
-
-[projeto trilha zero] <img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/87a5bad4-0008-48cc-8f9b-c1559a76cf28" width="130">
