@@ -19,7 +19,9 @@
 <h2 align="center">Embarking on the Adventure of Java ♨️ </h2>
 
 [![Bloco_1_](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/30c21def-72c8-4f9a-b17e-ec3ec80a0101)](https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Bloco_01)
-![link_para_coockbook](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/3d5d84d5-52e0-4c97-9288-7673b7319c55)
+
+[![link_para_coockbook](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/9379212a-5d24-4268-b577-2105c1d67c5d)](https://github.com/conteudoGeneration/cookbook_java_fullstack/)
+ 
 <p align="center">
   <a href="https://github.com/caoslourenco/contabancaria">
     <img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/d1800339-5937-4ca1-b23a-c8f06996d805" width="130" alt="conta de banco - projeto 1">
