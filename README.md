@@ -31,8 +31,6 @@
   </a>
 </p>
 
-
-``|🚨 Caution: Work in progress 🚨| ``
 ********************************************************************************************************************************
  <h2 align="center">⚔️Unveiling the SQL & Spring Path ⚔️ </h2>
 
@@ -51,10 +49,8 @@
   </a>
 </p>
 
- 
-``|🚨 Caution: Work in progress 🚨| ``
 ********************************************************************************************************************************
- <h2 align="center">The Final Conquest 🧙‍♂️</h2>
+ <h2 align="center">🏹The Final Conquest 🧙‍♂️</h2>
  
 
  [![Banner_bloco_3](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/4a749720-b8a7-4b3b-827f-233f67f60bd3)](https://github.com/caoslourenco/Generation_Bootcamp_Java/tree/main/Bloco_03)
@@ -65,8 +61,6 @@
     <img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/b30d0122-b5fb-4779-8508-ad7c2ca0d029" width="130" alt="projeto bloco 3">
   </a>
 </p>
-
-**🚧 🏗️ 🚧**
 
 <!-- <div align="left">
 
@@ -93,18 +87,14 @@ Rooted in our principles, our values ​​are...
 </div>
 
 -->
-
-
-``|🚨 Caution: Work in progress 🚨| ``
-
 ********************************************************************************************************************************
  
 <h2 align="center">✍️Reflections on the Generation Bootcamp</h2>
 
 
-![rrr (1)](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/6bf9da58-bccc-46d7-8d0a-9b105e978ac2)
-&nbsp;
- ![Plant Enthusiast LinkedIn Banner (16)](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/03507ddf-2735-40bb-a0b9-949725f10bb0)
+![Hobbit_house](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/6bf9da58-bccc-46d7-8d0a-9b105e978ac2)
+ 
+![MSG](https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/7c3f1419-ba61-46b4-a33e-84b9f212bc34)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/camilla-lourenco/">
@@ -114,7 +104,7 @@ Rooted in our principles, our values ​​are...
 
 
 &nbsp;
-<p align="right" style="color: #003100;">
+<p align="center" style="color: #003100;">
       <img src="https://komarev.com/ghpvc/?username=clouenc&label=Madmoon+marches+🧙‍♂️&color=003100" alt="Madmoon Marches 🧙‍♂️"/>
   </a>
 </p>
