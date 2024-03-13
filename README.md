@@ -24,7 +24,7 @@
   <a href="https://github.com/caoslourenco/contabancaria">
     <img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/8985b9d6-a2dd-4299-a549-4e7ecdd5697e" width="110" alt="conta de banco - projeto 1">
   </a>
-  <a href="https://github.com/caoslourenco/E-commerce">
+  <a href="https://github.com/caoslourenco/projeto_final_bloco_01">
     <img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/41875b3a-53b5-4133-bb10-54108182dbd9" width="110" alt="projeto grupo 1">
   </a>
 </p>
