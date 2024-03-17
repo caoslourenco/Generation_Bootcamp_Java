@@ -86,7 +86,7 @@ Rooted in our principles, our values ​​are...
 
 -->
 ********************************************************************************************************************************
- 
+ -
 <h2 align="center">✍️Reflections on the Generation Bootcamp</h2>
 
 
