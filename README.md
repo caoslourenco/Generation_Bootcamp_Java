@@ -109,7 +109,7 @@ Rooted in our principles, our values ​​are...
 
 
 <p align="center">
-  <a href="https://github.com/caoslourenco/Generation_Bootcamp_Java">
+  <a href="https://github.com/caoslourenco">
     <img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/898d4b00-6916-48ce-942c-7f63b805fca8" alt="Design sem nome (3)" width="150"/>
   </a>
 </p>
