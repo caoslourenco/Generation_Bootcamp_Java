@@ -1,4 +1,4 @@
--- Criar tabela de colaboradores
+-- tabela de colaboradores
 CREATE TABLE colaboradores (
     id INT PRIMARY KEY AUTO_INCREMENT,
     nome VARCHAR(100),
@@ -8,7 +8,7 @@ CREATE TABLE colaboradores (
     data_contratacao DATE
 );
 
--- Inserir dados na tabela de colaboradores
+-- Inserir -  tabela de colaboradores
 INSERT INTO colaboradores (nome, cargo, salario, departamento, data_contratacao) VALUES
 ('João Silva', 'Analista de RH', 2500.00, 'Recursos Humanos', '2022-01-15'),
 ('Maria Santos', 'Assistente Administrativo', 1800.00, 'Administrativo', '2021-08-20'),
