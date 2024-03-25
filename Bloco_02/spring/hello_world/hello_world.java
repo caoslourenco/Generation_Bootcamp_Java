@@ -1,30 +1,13 @@
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RestController;
+package com.example.helloworld;
 
-import java.util.Arrays;
-import java.util.List;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@RestController
-public class HelloWorldController {
+@SpringBootApplication
+public class HelloworldApplication {
 
-    @GetMapping("/hello")
-    public String helloWorld() {
-        return "Hello World!";
-    }
-
-    @GetMapping("/bsms")
-    public List<String> getBSMs() {
-        // Supondo que haja uma classe BSMService para obter a lista de BSMs
-        // Exemplo fictício:
-        return Arrays.asList("BSM1", "BSM2", "BSM3");
-    }
-
-    @GetMapping("/learning-objectives")
-    public List<String> getLearningObjectives() {
-        return Arrays.asList(
-                "Aprender Spring Boot",
-                "Praticar endpoints REST",
-                "Compreender controle de versão com Git"
-        );
-    }
+	public static void main(String[] args) {
+		SpringApplication.run(HelloworldApplication.class, args);
+	}
+	
 }
