@@ -1,0 +1,53 @@
+// BlogPessoalApplication.java
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class BlogPessoalApplication {
+    public static void main(String[] args) {
+        SpringApplication.run(BlogPessoalApplication.class, args);
+    }
+}
+
+// Postagem.java
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+
+@Entity
+public class Postagem {
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private Long id;
+
+    private String titulo;
+    private String conteudo;
+
+    // getters e setters
+}
+
+// PostagemRepository.java
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+@Repository
+public interface PostagemRepository extends JpaRepository<Postagem, Long> {
+}
+
+// PostagemController.java
+import java.util.List;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class PostagemController {
+    @Autowired
+    private PostagemRepository postagemRepository;
+
+    @GetMapping("/postagens")
+    public List<Postagem> getAllPostagens() {
+        return postagemRepository.findAll();
+    }
+}
