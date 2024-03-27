@@ -1,0 +1,75 @@
+import java.util.List;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.*;
+
+import seu.pacote.model.Postagem;
+import seu.pacote.repository.PostagemRepository;
+
+@RestController
+@RequestMapping("/postagens")
+public class PostagemController {
+
+    @Autowired
+    private PostagemRepository postagemRepository;
+
+    // Método para buscar todas as postagens
+    @GetMapping
+    public ResponseEntity<List<Postagem>> getAllPostagens() {
+        List<Postagem> postagens = postagemRepository.findAll();
+        return ResponseEntity.ok(postagens);
+    }
+
+    // Método para buscar uma postagem pelo ID
+    @GetMapping("/{id}")
+    public ResponseEntity<Postagem> getById(@PathVariable Long id) {
+        Postagem postagem = postagemRepository.findById(id)
+            .orElse(null);
+        if (postagem != null) {
+            return ResponseEntity.ok(postagem);
+        } else {
+            return ResponseEntity.notFound().build();
+        }
+    }
+
+    // Método para buscar postagens pelo título
+    @GetMapping("/titulo/{titulo}")
+    public ResponseEntity<List<Postagem>> getByTitulo(@PathVariable String titulo) {
+        List<Postagem> postagens = postagemRepository.findAllByTituloContainingIgnoreCase(titulo);
+        return ResponseEntity.ok(postagens);
+    }
+
+    // Método para criar uma nova postagem
+    @PostMapping
+    public ResponseEntity<Postagem> post(@RequestBody Postagem postagem) {
+        Postagem newPostagem = postagemRepository.save(postagem);
+        return ResponseEntity.status(HttpStatus.CREATED).body(newPostagem);
+    }
+
+    // Método para atualizar uma postagem existente
+    @PutMapping("/{id}")
+    public ResponseEntity<Postagem> put(@PathVariable Long id, @RequestBody Postagem postagem) {
+        // Verifica se a postagem com o ID especificado existe
+        if (!postagemRepository.existsById(id)) {
+            return ResponseEntity.notFound().build();
+        }
+        // Define o ID da postagem que está sendo atualizada
+        postagem.setId(id);
+        // Salva a postagem atualizada no repositório
+        Postagem updatedPostagem = postagemRepository.save(postagem);
+        return ResponseEntity.ok(updatedPostagem);
+    }
+
+    // Método para excluir uma postagem
+    @DeleteMapping("/{id}")
+    public ResponseEntity<Void> delete(@PathVariable Long id) {
+        // Verifica se a postagem com o ID especificado existe
+        if (!postagemRepository.existsById(id)) {
+            return ResponseEntity.notFound().build();
+        }
+        // Remove a postagem do repositório
+        postagemRepository.deleteById(id);
+        return ResponseEntity.noContent().build();
+    }
+}
