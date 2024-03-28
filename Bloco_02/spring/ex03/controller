@@ -1,0 +1,64 @@
+package seu.pacote.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.*;
+import seu.pacote.model.Tema;
+import seu.pacote.repository.TemaRepository;
+import java.util.List;
+
+@RestController
+@RequestMapping("/temas")
+public class TemaController {
+
+    @Autowired
+    private TemaRepository temaRepository;
+
+    @GetMapping
+    public ResponseEntity<List<Tema>> getAll() {
+        List<Tema> temas = temaRepository.findAll();
+        return ResponseEntity.ok(temas);
+    }
+
+    @GetMapping("/{id}")
+    public ResponseEntity<Tema> getById(@PathVariable Long id) {
+        Tema tema = temaRepository.findById(id).orElse(null);
+        if (tema != null) {
+            return ResponseEntity.ok(tema);
+        } else {
+            return ResponseEntity.notFound().build();
+        }
+    }
+
+    @GetMapping("/descricao/{descricao}")
+    public ResponseEntity<List<Tema>> getByDescricao(@PathVariable String descricao) {
+        List<Tema> temas = temaRepository.findAllByDescricaoContainingIgnoreCase(descricao);
+        return ResponseEntity.ok(temas);
+    }
+
+    @PostMapping
+    public ResponseEntity<Tema> post(@RequestBody Tema tema) {
+        Tema newTema = temaRepository.save(tema);
+        return ResponseEntity.status(HttpStatus.CREATED).body(newTema);
+    }
+
+    @PutMapping("/{id}")
+    public ResponseEntity<Tema> put(@PathVariable Long id, @RequestBody Tema tema) {
+        if (!temaRepository.existsById(id)) {
+            return ResponseEntity.notFound().build();
+        }
+        tema.setId(id);
+        Tema updatedTema = temaRepository.save(tema);
+        return ResponseEntity.ok(updatedTema);
+    }
+
+    @DeleteMapping("/{id}")
+    public ResponseEntity<Void> delete(@PathVariable Long id) {
+        if (!temaRepository.existsById(id)) {
+            return ResponseEntity.notFound().build();
+        }
+        temaRepository.deleteById(id);
+        return ResponseEntity.noContent().build();
+    }
+}

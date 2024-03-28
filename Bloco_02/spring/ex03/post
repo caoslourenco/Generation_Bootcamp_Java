@@ -1,0 +1,4 @@
+@ManyToOne
+@JsonIgnoreProperties("postagens")
+private Tema tema;
+
