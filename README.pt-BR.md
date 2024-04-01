@@ -102,7 +102,7 @@ Rooted in our principles, our values ​​are...
 
 &nbsp;
 <p align="center" style="color: #003100;">
-      <img src="https://komarev.com/ghpvc/?username=clouenc&label=Madmoon+marches+🧙‍♂️&color=003100" alt="Madmoon Marches 🧙‍♂️"/>
+      <img src="https://komarev.com/ghpvc/?username=clo8uenc&label=Madmoon+marches+🧙‍♂️&color=003100" alt="Madmoon Marches 🧙‍♂️"/>
   </a>
 </p>
 
