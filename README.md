@@ -40,10 +40,10 @@
  
 <p align="center">
   <a href="https://github.com/caoslourenco/Como_the_llama_GameStore" style="display: inline-block; margin-right: 20px;">
-    <img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/5c41f908-538f-4644-bc73-95c239850c52" width="130" alt="projeto bloco 2 - 1">
+    <img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/fd9b133c-6e4c-4cfd-8517-74ab597d5d09" width="130" alt="projeto bloco 2 - 1">
   </a>
-  <a href="https://github.com/caoslourenco/devExplora" style="display: inline-block;">
-    <img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/a7483913-d439-4f41-b814-e68884e470ac" width="130" alt="projeto bloco 2 - 2">
+  <a href="https://github.com/caoslourenco/devExplora" style="display: inline-block; margin-right: 30px;">
+    <img src="https://github.com/caoslourenco/Generation_Bootcamp_Java/assets/18141491/86eecd52-1a0b-4b9d-92c2-236bd82ad4fa" width="130" alt="projeto bloco 2 - 2">
   </a>
 </p>
 
