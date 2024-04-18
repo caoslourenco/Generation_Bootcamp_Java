@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página Engraçada - Invasão das Lhamas</title>
+    <style>
+        @keyframes blink {
+            0% { color: red; }
+            50% { color: #ffffff; }
+            100% { color: red; }
+        }
+        @keyframes bounce {
+            0% { transform: translateY(0); }
+            50% { transform: translateY(-5px); }
+            100% { transform: translateY(0); }
+        }
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            text-align: center;
+            background: linear-gradient(to bottom, #192A51, #000000); /* Fundo gradiente do azul marinho para o preto */
+            color: #fff; /* Texto branco */
+        }
+        h1 {
+            color: #FF00FF; /* Cor rosa para o título */
+            transition: color 0.3s ease; /* Transição suave para a cor do título */
+        }
+        p {
+            line-height: 1.6;
+            margin-bottom: 20px; /* Adicionado um espaço extra entre as legendas */
+        }
+        img {
+            max-width: 100%;
+            margin-top: 20px;
+            border-radius: 10px; /* Borda arredondada */
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Leve sombra nos gifs */
+            transition: transform 0.3s ease; /* Transição suave quando passar o mouse sobre os gifs */
+        }
+        img:hover {
+            transform: scale(1.05); /* Aumentar um pouco o tamanho ao passar o mouse */
+        }
+        .elemento {
+            border: 2px solid #FF00FF; /* Borda rosa ao redor dos elementos */
+            padding: 10px;
+            border-radius: 10px;
+            transition: border-color 0.3s ease; /* Transição suave para a cor da borda */
+        }
+        .elemento:hover {
+            border-color: #fff; /* Alterar a cor da borda ao passar o mouse */
+        }
+        .aviso {
+            background-color: #FF0000; /* Cor vermelha para o fundo do aviso */
+            padding: 10px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            animation: blink 1s infinite; /* Animação de piscar */
+            display: inline-block;
+        }
+        .aviso span {
+            display: inline-block;
+            animation: bounce 1s infinite; /* Animação de quicar */
+        }
+    </style>
+</head>
+<body>
+    <div class="aviso">
+        <span>⚠️</span> <span>Atenção! Esta página foi invadida por lhamas! ⚠️</span>
+    </div>
+    <h1>🦙</h1>
+    <p>As lhamas estão causando um verdadeiro "lamaçal" por aqui!</p>
+    <img src="https://media.tenor.com/xm13P6olk7gAAAAM/julesmumm-bejules.gif" alt="Lhama dançando" class="elemento">
+    <p>Nada como ter estilo! 😎</p>
+
+    <img src="https://media1.tenor.com/m/xSzwq-QWI0gAAAAC/njaku-llama-dance.gif" alt="Lhamas felizes" class="elemento">
+    <p>Essas lhamas estão "felizinhas" da vida! 😄</p>
+
+    <img src="https://media.tenor.com/ScM-HOT55PIAAAAM/llama-flirting.gif" alt="Lhama curiosa" class="elemento">
+    <p>Essa lhama parece estar "fuçando" a página! 😜</p>
+
+    <img src="https://media.tenor.com/qRH4JmHkECAAAAAM/ho-hombile.gif" alt="Lhama curiosa" class="elemento"> 
+    <p>Elas não são lhamazings? 🦙✨</p>
+</body>
+</html>
