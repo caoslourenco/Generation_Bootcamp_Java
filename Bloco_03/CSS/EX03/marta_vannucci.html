@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marta Vannucci - Cientistas do Brasil</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="icon" href="assets/img/cien.png" type="image/x-icon">
+    <style>
+        /* Estilos gerais */
+        body {
+            font-family: 'Roboto', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(to right, #0c0f12, #283148); /* Fundo gradiente */
+            color: #fff; /* Cor do texto */
+        }
+
+        .topo {
+            background-color: #24292e; /* Cor de fundo do cabeçalho (cinza escuro) */
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+            display: flex; /* Flex container */
+            justify-content: space-between; /* Alinha itens ao redor */
+            align-items: center; /* Centraliza verticalmente */
+        }
+
+        .topo h1 {
+            margin: 0;
+            font-size: 24px; /* Tamanho do título */
+        }
+
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            text-align: center; /* Centraliza conteúdo */
+            padding-top: 50px; /* Espaçamento superior */
+            position: relative; /* Posição relativa para o conteúdo */
+            z-index: 1; /* Ajusta a ordem do empilhamento */
+            margin-bottom: 100px; /* Adiciona margem inferior para evitar que o rodapé sobreponha o conteúdo */
+        }
+
+        .container img {
+            width: 50%; /* Reduzir o tamanho da imagem */
+            height: auto; /* Altura automática */
+            border-radius: 10px; /* Borda arredondada */
+            margin-bottom: 20px; /* Espaçamento inferior */
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Sombra */
+        }
+
+        .container p {
+            font-size: 18px; /* Tamanho do texto */
+            line-height: 1.6; /* Espaçamento entre linhas */
+            text-align: justify; /* Justificar texto */
+            padding: 20px; /* Espaçamento interno */
+            background-color: rgba(255, 255, 255, 0.3); /* Cor de fundo com transparência */
+            border-radius: 10px; /* Borda arredondada */
+            backdrop-filter: blur(10px); /* Efeito de blur */
+            position: relative; /* Posição relativa para o texto */
+            z-index: 1; /* Ajusta a ordem do empilhamento */
+            margin-bottom: 20px; /* Espaçamento inferior */
+        }
+
+        footer {
+            background-color: #24292e; /* Cor de fundo do rodapé (cinza escuro) */
+            color: #fff; /* Cor do texto do rodapé */
+            text-align: center;
+            padding: 20px; /* Reduzindo o padding */
+            width: 100%;
+            z-index: 1; /* Ajusta a ordem do empilhamento */
+            display: none; /* Inicialmente oculto */
+        }
+
+        @media only screen and (max-width: 600px) {
+            .container img {
+                width: 80%; /* Reduzir o tamanho da imagem em telas pequenas */
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Cabeçalho -->
+    <header class="topo">
+        <nav>
+            <a href="index.html" style="color: #fff;">Home</a> <!-- Removendo a margem direita -->
+        </nav>
+    </header>
+    
+    <div class="container">
+        <h1>Marta Vannucci</h1>
+        <img src="assets/img/marta_vannucci.png" alt="Marta Vannucci">
+        <p>
+            <strong>Marta Vannucci</strong> é uma física brasileira, conhecida por suas contribuições no campo da física estatística e na análise de sistemas complexos. Graduada em Física pela Universidade de São Paulo (USP), Marta obteve seu doutorado na mesma instituição e desde então vem se destacando no cenário científico nacional e internacional.
+        </p>
+    </div>
+    
+    <!-- Rodapé -->
+    <footer id="rodape">
+        <p>Mulheres na Ciência</p>
+        <p>© 2024 </p>
+    </footer>
+
+    <script>
+        // Mostra o rodapé quando a página é rolada para baixo
+        window.addEventListener('scroll', function() {
+            var rodape = document.getElementById('rodape');
+            if (window.scrollY > 0) {
+                rodape.style.display = 'block'; // Mostra o rodapé
+            } else {
+                rodape.style.display = 'none'; // Oculta o rodapé
+            }
+        });
+    </script>
+</body>
+</html>

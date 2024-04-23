@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cientistas do Brasil que você precisa conhecer</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="icon" href="assets/img/cien.png" type="image/x-icon">
+    <style>
+        /* Estilos gerais */
+        body {
+            font-family: 'Roboto', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(to bottom, #1f314d, #1f314d); /* Fundo gradiente azul marinho */
+            color: #c9d1d9; /* Cor do texto */
+        }
+
+        .topo {
+            background-color: #1f314d; /* Cor de fundo do cabeçalho (azul marinho mais escuro) */
+            color: #c9d1d9; /* Cor do texto */
+            text-align: center;
+            padding: 20px;
+        }
+
+        .topo h1 {
+            margin: 0;
+        }
+
+        .subtitulo {
+            font-size: 18px; /* Tamanho do subtítulo */
+            margin-top: 10px; /* Espaçamento superior */
+        }
+
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            text-align: center; /* Centraliza conteúdo */
+            padding-top: 50px; /* Espaçamento superior */
+            padding-bottom: 100px; /* Espaçamento inferior */
+        }
+
+        .cientista-box {
+            display: flex;
+            justify-content: space-between; /* Espaçamento uniforme entre os boxes */
+        }
+
+        .box {
+            width: 30%; /* Ajusta o tamanho dos boxes */
+            background: linear-gradient(to bottom, #18253b, #18253b); /* Fundo gradiente azul marinho */
+            border-radius: 50px; /* Borda arredondada */
+            padding: 10px;
+            margin-bottom: 20px; /* Espaçamento inferior */
+            box-shadow: 0 0 10px rgba(51, 12, 114, 0.3); /* Sombra */
+            transition: transform 0.3s; /* Efeito de transição */
+        }
+
+        .box:hover {
+            transform: translateY(-5px); /* Elevação ao passar o mouse */
+        }
+
+        .box a {
+            text-decoration: none; /* Remove o sublinhado */
+            color: #c9d1d9; /* Cor do texto */
+            display: flex; /* Adiciona o nome da cientista ao lado da imagem */
+            flex-direction: column; /* Orientação do flexbox */
+            align-items: center; /* Centraliza o conteúdo no eixo vertical */
+        }
+
+        .box img {
+            width: 100%; /* Imagem ocupando toda a largura do box */
+            height: auto; /* Altura automática */
+            border-radius: 10px; /* Borda arredondada */
+            margin-bottom: 10px; /* Espaçamento inferior */
+            border: none; /* Remove a borda */
+        }
+
+        .box h2 {
+            font-size: 20px; /* Tamanho do nome */
+            margin: 0;
+        }
+
+        footer {
+            background: linear-gradient(to bottom, #1f314d, #1f314d); /* Cor de fundo do rodapé azul marinho */
+            color: #c9d1d9; /* Cor do texto do rodapé */
+            text-align: center;
+            padding: 5px; /* Reduzindo o padding */
+            width: 100%;
+            position: fixed; /* Rodapé fixo */
+            bottom: -50px; /* Começa fora da tela */
+            transition: bottom 0.3s; /* Efeito de transição */
+        }
+
+        .show-footer {
+            bottom: 0; /* Mostra o rodapé */
+        }
+    </style>
+</head>
+<body>
+    <!-- Cabeçalho -->
+    <header class="topo">
+        <h1>Cientistas do Brasil que você precisa conhecer</h1>
+        <p class="subtitulo">Explorando o Legado das Mulheres na Ciência do Brasil</p>
+    </header>
+    
+    <!-- Conteúdo principal -->
+    <div class="container cientista-container">
+        <div class="cientista-box">
+            <div class="box">
+                <a href="bertha_lutz.html">
+                    <img src="assets/img/bertha_lutz.png" alt="Bertha Lutz">
+                    <h2>Bertha Lutz</h2>
+                </a>
+            </div>
+            <div class="box">
+                <a href="jaqueline_goes.html">
+                    <img src="assets/img/jaqueline_goes.png" alt="Jaqueline Goes">
+                    <h2>Jaqueline Goes</h2>
+                </a>
+            </div>
+            <div class="box">
+                <a href="marta_vannucci.html">
+                    <img src="assets/img/marta_vannucci.png" alt="Marta Vannucci">
+                    <h2>Marta Vannucci</h2>
+                </a>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Rodapé -->
+    <footer id="footer">
+        <p>Mulheres na Ciência</p>
+        <p>© 2024</p>
+    </footer>
+
+    <script>
+        window.addEventListener('scroll', function() {
+            var footer = document.getElementById('footer');
+            if (window.scrollY > 0) {
+                footer.classList.add('show-footer');
+            } else {
+                footer.classList.remove('show-footer');
+            }
+        });
+    </script>
+</body>
+</html>
+
+
+
+
